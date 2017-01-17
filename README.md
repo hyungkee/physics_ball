@@ -1,6 +1,6 @@
 #Physics Ball
 
- 공튀기기 게임입니다. WINAPI + C++이고, VISUAL STUDIO 6.0으로 2014-05-06에 개발 완료하였습니다.
+ 공튀기기 게임입니다. WINAPI + C++이고, VISUAL STUDIO 6.0으로 2012-10-19에 개발 완료하였습니다.
 
 
 ![](https://github.com/hyungkee/physics_ball/raw/master/sc1.png)
